@@ -1,7 +1,3 @@
-Absolutely! Here’s the README.txt again, formatted clearly to ensure it’s easy to read and copy:
-
----
-
 # Cat vs Dog Classification Project
 
 ## Overview
